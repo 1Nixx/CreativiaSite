@@ -1,8 +1,6 @@
-# Lab1RPI
+# CreativiaSite
+Pixel-perfect layouts based on psd template. </br>
+For icons used Font Awesome. Some things animated by Java Script
 
-Роман Шидловский - 4, 7, 11  
-Никита Хрипач - 1, 5, 9  
-Павел Старовойтов - 3, 6  
-Константин Цывилько - 2, 8, 10  
-
->**В именах классов и id первая буква совего имени, например k-someStyleClass**
+# Site
+![image](https://user-images.githubusercontent.com/73549276/182035419-248bb80a-7470-4a7f-9810-e2d418281d18.png)
