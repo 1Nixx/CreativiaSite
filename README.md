@@ -1,5 +1,5 @@
 # CreativiaSite
-Pixel-perfect layouts based on psd template. </br>
+Pixel-perfect layout based on psd template. </br>
 For icons used Font Awesome. Some things animated by Java Script
 
 # Site
